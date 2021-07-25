@@ -1,0 +1,19 @@
+section > div {
+	width: 50%;
+	margin: 20px 0;
+}
+
+section > div > p:first-child {
+	font-weight: bold;
+}
+
+section > div > p:last-child {
+	padding: 10px 0;
+}
+
+.year-tag {
+	padding: 5px;
+	font-size: 14px;
+	background-color: #1597BB;
+	border-radius: 5px;
+}

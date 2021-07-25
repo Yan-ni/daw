@@ -1,0 +1,8 @@
+section > ul {
+	margin: 20px 0;
+	width: 50%;
+}
+
+section ul > li {
+	padding: 10px 0;
+}
